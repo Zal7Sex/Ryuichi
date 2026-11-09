@@ -1,1 +1,1 @@
-https://laugh-motorcycles-negotiation-seller.trycloudflare.com
+https://api.trycloudflare.com
